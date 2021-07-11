@@ -1,0 +1,13 @@
+10-07-2021 19:27:45 DEBUG[TestElements]: Opening website
+10-07-2021 19:28:04 DEBUG[TestElements]: Logged into website
+10-07-2021 19:28:20 DEBUG[TestElements]: Created new customer
+10-07-2021 19:28:28 DEBUG[TestElements]: Edited customer through customer ID
+10-07-2021 19:28:34 DEBUG[TestElements]: Created a new account for a customer
+10-07-2021 19:28:42 DEBUG[TestElements]: Edited account for a customer
+10-07-2021 19:28:47 DEBUG[TestElements]: Deposited money in a customer's account
+10-07-2021 19:28:59 DEBUG[TestElements]: Money withdrawn by a customer
+10-07-2021 19:29:04 DEBUG[TestElements]: Transferred money to a customer by another customer
+10-07-2021 19:29:09 DEBUG[TestElements]: Balance enquiry
+10-07-2021 19:29:14 DEBUG[TestElements]: Mini statement
+10-07-2021 19:29:21 DEBUG[TestElements]: Customized statement
+10-07-2021 19:29:31 DEBUG[TestElements]: Logged off
